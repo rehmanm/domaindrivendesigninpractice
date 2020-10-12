@@ -1,9 +1,9 @@
 ﻿using System;
-using DdInPractice.Logic;
+using DddInPractice.Logic;
 using FluentAssertions;
 using Xunit;
 
-using static DdInPractice.Logic.Money;
+using static DddInPractice.Logic.Money;
 
 namespace DddInPractice.Core.Tests
 {
@@ -44,7 +44,7 @@ namespace DddInPractice.Core.Tests
         }
 
         [Fact]
-        public void Money_in_transaction_goes_to_moeny_inside_after_purchase()
+        public void Money_in_transaction_goes_to_money_inside_after_purchase()
         {
             var snackMachine = new SnackMachine();
             snackMachine.InsertMoney(Dollar);

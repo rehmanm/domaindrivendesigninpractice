@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DdInPractice.Logic
+namespace DddInPractice.Logic
 {
     //Value Object
     public sealed class Money : ValueObject<Money>

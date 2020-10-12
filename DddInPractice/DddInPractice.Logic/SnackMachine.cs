@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using static DdInPractice.Logic.Money;
+using static DddInPractice.Logic.Money;
 
-namespace DdInPractice.Logic
+namespace DddInPractice.Logic
 {
     //Entity
     public sealed class SnackMachine : Entity

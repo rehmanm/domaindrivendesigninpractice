@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DdInPractice.Logic\DdInPractice.Logic.csproj" />
+    <ProjectReference Include="..\DddInPractice.Logic\DddInPractice.Logic.csproj" />
   </ItemGroup>
 
 </Project>

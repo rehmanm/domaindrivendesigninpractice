@@ -1,4 +1,4 @@
-﻿namespace DdInPractice.Logic
+﻿namespace DddInPractice.Logic
 {
     public abstract class Entity
     {

@@ -1,5 +1,5 @@
 using System;
-using DdInPractice.Logic;
+using DddInPractice.Logic;
 using FluentAssertions;
 using Xunit;
 

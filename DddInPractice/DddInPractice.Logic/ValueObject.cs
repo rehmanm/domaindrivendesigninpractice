@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices.ComTypes;
 
-namespace DdInPractice.Logic
+namespace DddInPractice.Logic
 {
     public abstract class ValueObject<T> where T : ValueObject<T>
     {
